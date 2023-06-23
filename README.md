@@ -12,6 +12,9 @@ I used the wamp server for the operations.
 <img src="assets/Connection.png" alt="Connection Established">
 <br>
 <br>
+<img src="assets/Home.png" alt="Home">
+<br>
+<br>
 <img src="assets/Add1.png" alt="Adding Book">
 <br>
 <img src="assets/Add2.png" alt="Updating in Database">
